@@ -7,7 +7,7 @@
 
 	"use strict";
 
-	$(window).stellar({
+	/*$(window).stellar({
     responsive: true,
     parallaxBackgrounds: true,
     parallaxElements: true,
@@ -16,7 +16,7 @@
     scrollProperty: 'scroll',
     horizontalOffset: 0,
 	  verticalOffset: 0
-  });
+  });*/
 
   // Scrollax
   $.Scrollax();
