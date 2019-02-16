@@ -3,9 +3,9 @@
  * Copyright 2013-2017 David Deutsch
  * Licensed under  ()
  */
- .owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item{
-    -ms-touch-action: auto !important;
-        touch-action: auto !important;
+ .owl-carousel.owl-drag .owl-item {
+	-ms-touch-action: pan-y;
+	touch-action: pan-y;
 }
 .owl-theme .owl-dots,
 .owl-theme .owl-nav{text-align:center;-webkit-tap-highlight-color:transparent}
