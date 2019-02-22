@@ -4994,7 +4994,7 @@ button.bg-danger:focus {
   background-color: #bd2130 !important; }
 
 .bg-light {
-  background-color: #f8f9fa !important; }
+  background-color: #f2f2f2 !important; }
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
@@ -7332,7 +7332,7 @@ h1, h2, h3, h4, h5,
     padding-bottom: .7rem;
     padding-left: 0;
     padding-right: 0;
-    color: rgba(255, 255, 255, 0.9);
+    color: #2b2b2b;
     font-weight: 400;
     position: relative;
     text-transform: uppercase;
@@ -7427,12 +7427,12 @@ h1, h2, h3, h4, h5,
     left: 0;
     top: 0;
     margin-top: -130px;
-    background: #000 !important;
+    background: #f2f2f2 !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     border: none; }
     .ftco-navbar-light.scrolled .nav-item > .nav-link {
-      color: #fff !important; }
+      color: #2b2b2b !important; }
     .ftco-navbar-light.scrolled .nav-item.active > a {
       color: #7bc8b2 !important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
@@ -7489,7 +7489,7 @@ h1, h2, h3, h4, h5,
       -o-transition: .3s all ease-out;
       transition: .3s all ease-out; }
     .ftco-navbar-light.scrolled .navbar-brand {
-      color: #fff; }
+      color: #7bc8b2; }
 
 .navbar-brand {
   font-size: 22px;
@@ -7501,7 +7501,7 @@ h1, h2, h3, h4, h5,
     text-transform: uppercase;
     font-size: 12px;
     display: block;
-    color: #fff;
+    color: #2b2b2b;
     letter-spacing: 8px; }
 
 .owl-carousel {
