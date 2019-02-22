@@ -4,7 +4,37 @@
 }
 
 .bg-image {
-  background-image: url('../images/exercise.jpg');
+  background-image: url('../images/vjezbe1.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-image-2 {
+  background-image: url('../images/masaza.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-image-3 {
+  background-image: url('../images/manikura.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-image-4 {
+  background-image: url('../images/depilacija.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-image-5 {
+  background-image: url('../images/dodatne-usluge.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-image-6 {
+  background-image: url('../images/manualni-tretmani.jpg');
   background-size: cover;
   background-position: center;
 }
