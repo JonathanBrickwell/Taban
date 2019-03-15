@@ -110,3 +110,14 @@
   font-size: 12px;
   color: #777;
 }
+
+/* Dropdown Menu */
+
+.dropdown-content {
+  display:none;
+  position: absolute;
+}
+
+.dropdown-item:hover>.dropdown-content {
+  display:block;
+}
