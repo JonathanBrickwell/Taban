@@ -142,16 +142,34 @@
 }
 .nav-tabs--left .nav-link:hover {
   background-color: #f7f7f7;
-  border-color: transparent;
+  border-color: #7bc8b2;
 }
 .nav-tabs--left .nav-link.active {
-  border-bottom-color: #ddd;
-  border-right-color: #fff;
+  border-right-color: transparent;
+  border-top-color:#7bc8b2;
+  border-left-color:#7bc8b2;
+  border-bottom-color:#7bc8b2;
   border-bottom-left-radius: 0.25rem;
   border-top-right-radius: 0;
   margin-right: -1px;
 }
 .nav-tabs--left .nav-link.active:hover {
   background-color: #fff;
-  border-color: #0275d8 #fff #0275d8 #0275d8;
+  border-color: #7bc8b2 #fff #7bc8b2 #7bc8b2;
+}
+
+.tabcontent {
+  margin-left: 10px;
+}
+
+.mobile {
+  background-color: rgba(255,255,255,0.8);
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+.accordion {
+  width:100%;
 }

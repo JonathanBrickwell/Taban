@@ -4,3 +4,21 @@
         display:none !important;
     }
 }
+
+@media (max-width:768px) {
+    .mobile {
+        display:block;
+    }
+    .desktop {
+        display:none;
+    }
+}
+
+@media (min-width:768px) {
+    .mobile {
+        display:none;
+    }
+    .desktop {
+        display:block;
+    }
+}
